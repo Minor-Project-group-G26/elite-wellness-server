@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "60dcb7c65036fc0e84a14e42"
+  },
+  "enrollments": {
+    "in_progress": [],
+    "completed": [],
+    "overdue": []
+  },
+  "wishlist": {
+    "books": [],
+    "courses": []
+  },
+  "profile": null,
+  "instructor": true,
+  "instructor_id": {
+    "$oid": "60e05a1a7f150618d063a398"
+  },
+  "occupation": "student",
+  "logs": [],
+  "verification": true,
+  "block_data": false,
+  "phone": "",
+  "admin": false,
+  "books": [],
+  "email": "jeet@gmail.com",
+  "name": "Jeet",
+  "username": "Jeetesh",
+  "password": "$2b$10$W1Oow4nJB/q7ArRV17bCzOUVzD2QV.I9kwFV8HsjpfskIlSN2Xnq.",
+  "dob": "2000-03-30",
+  "createdAt": {
+    "$date": "2021-06-30T18:28:22.619Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T12:43:04.965Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dcb8c75036fc0e84a14e48"
+  },
+  "enrollments": {
+    "in_progress": [],
+    "completed": [],
+    "overdue": []
+  },
+  "wishlist": {
+    "books": [],
+    "courses": []
+  },
+  "profile": "img-1625083211837.jpg",
+  "instructor": true,
+  "instructor_id": {
+    "$oid": "60e069b09d957f1fb848ba37"
+  },
+  "occupation": "student",
+  "logs": [],
+  "verification": true,
+  "block_data": false,
+  "phone": "9876543210",
+  "admin": false,
+  "books": [],
+  "email": "gourav@gmail.com",
+  "name": "Gourav Singh",
+  "username": "Gourav",
+  "password": "$2b$10$kMS7tB/GBGvz7olzZFdiSeFT9q7RrS3YLwNTXSgkb.6squBeCCD.K",
+  "dob": "10-10-2000",
+  "createdAt": {
+    "$date": "2021-06-30T18:32:39.513Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:45:35.728Z"
+  },
+  "__v": 0
+}]

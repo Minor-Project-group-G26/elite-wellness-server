@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "60e05a1a7f150618d063a398"
+  },
+  "verification": true,
+  "block": false,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e13d58a9f5c829f4acf666"
+      },
+      "course_title": "Mastering C++",
+      "course_id": {
+        "$oid": "60e13d58a9f5c829f4acf663"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e13deca9f5c829f4acf66b"
+      },
+      "course_title": "Learning the basics of Javascript",
+      "course_id": {
+        "$oid": "60e13deca9f5c829f4acf668"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e13e8aa9f5c829f4acf670"
+      },
+      "course_title": "Mastering Java",
+      "course_id": {
+        "$oid": "60e13e8aa9f5c829f4acf66d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e13f40a9f5c829f4acf675"
+      },
+      "course_title": "Learning the Communication Skills",
+      "course_id": {
+        "$oid": "60e13f40a9f5c829f4acf672"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e13fbca9f5c829f4acf67a"
+      },
+      "course_title": "Learning the HTML",
+      "course_id": {
+        "$oid": "60e13fbca9f5c829f4acf677"
+      }
+    }
+  ],
+  "books": [
+    {
+      "_id": {
+        "$oid": "60e064179ae3e504d4f18bb3"
+      },
+      "book_title": "Python Basic",
+      "book_id": {
+        "$oid": "60e064179ae3e504d4f18bb1"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:20:23.565Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:20:23.565Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e0648c9ae3e504d4f18bb8"
+      },
+      "book_title": "Python For All",
+      "book_id": {
+        "$oid": "60e0648c9ae3e504d4f18bb6"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:22:20.338Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:22:20.338Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e06538e1c9ee2dfcc96105"
+      },
+      "book_title": "Digital Marketing",
+      "book_id": {
+        "$oid": "60e06538e1c9ee2dfcc96103"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:25:12.586Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:25:12.586Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e065fde1c9ee2dfcc9610a"
+      },
+      "book_title": "Web Development With Html&Css",
+      "book_id": {
+        "$oid": "60e065fde1c9ee2dfcc96108"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:28:29.934Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:28:29.934Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e06652e1c9ee2dfcc9610f"
+      },
+      "book_title": "Personal Development Course",
+      "book_id": {
+        "$oid": "60e06652e1c9ee2dfcc9610d"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:29:54.478Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:29:54.478Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e0679fe1c9ee2dfcc96114"
+      },
+      "book_title": "Personal Grow ",
+      "book_id": {
+        "$oid": "60e0679fe1c9ee2dfcc96112"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:35:27.544Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:35:27.544Z"
+      }
+    }
+  ],
+  "user_id": {
+    "$oid": "60dcb7c65036fc0e84a14e42"
+  },
+  "verification_data": {
+    "_id": {
+      "$oid": "60e05a1a7f150618d063a399"
+    },
+    "document_type": "adhaar",
+    "document_id": "123456789",
+    "createdAt": {
+      "$date": "2021-07-03T12:37:46.387Z"
+    },
+    "updatedAt": {
+      "$date": "2021-07-03T12:37:46.387Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-03T12:37:46.390Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T04:57:32.377Z"
+  },
+  "__v": 18
+},{
+  "_id": {
+    "$oid": "60e069b09d957f1fb848ba37"
+  },
+  "verification": true,
+  "block": false,
+  "courses": [
+    {
+      "_id": {
+        "$oid": "60e1430fa9f5c829f4acf680"
+      },
+      "course_title": "Mastering Python",
+      "course_id": {
+        "$oid": "60e1430fa9f5c829f4acf67d"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e143a1a9f5c829f4acf685"
+      },
+      "course_title": "Learning Digital Marketing",
+      "course_id": {
+        "$oid": "60e143a1a9f5c829f4acf682"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e14434a9f5c829f4acf68a"
+      },
+      "course_title": "Teamwork Skills",
+      "course_id": {
+        "$oid": "60e14434a9f5c829f4acf687"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e144c1a9f5c829f4acf68f"
+      },
+      "course_title": "Probability for Datascience",
+      "course_id": {
+        "$oid": "60e144c1a9f5c829f4acf68c"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e14539a9f5c829f4acf694"
+      },
+      "course_title": "Learning the CSS Basics",
+      "course_id": {
+        "$oid": "60e14539a9f5c829f4acf691"
+      }
+    }
+  ],
+  "books": [
+    {
+      "_id": {
+        "$oid": "60e06a4d9d957f1fb848ba41"
+      },
+      "book_title": "Personal Grow Quickly ",
+      "book_id": {
+        "$oid": "60e06a4d9d957f1fb848ba3f"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T13:46:53.078Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T13:46:53.078Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e075ec9d957f1fb848ba46"
+      },
+      "book_title": "Grow Business Quickly ",
+      "book_id": {
+        "$oid": "60e075ec9d957f1fb848ba44"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T14:36:28.347Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T14:36:28.347Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e076449d957f1fb848ba4b"
+      },
+      "book_title": "Python Project ",
+      "book_id": {
+        "$oid": "60e076439d957f1fb848ba49"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T14:37:56.006Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T14:37:56.006Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60e07e9c9d957f1fb848ba50"
+      },
+      "book_title": "English Spoken",
+      "book_id": {
+        "$oid": "60e07e9c9d957f1fb848ba4e"
+      },
+      "createdAt": {
+        "$date": "2021-07-03T15:13:32.730Z"
+      },
+      "updatedAt": {
+        "$date": "2021-07-03T15:13:32.730Z"
+      }
+    }
+  ],
+  "user_id": {
+    "$oid": "60dcb8c75036fc0e84a14e48"
+  },
+  "verification_data": {
+    "_id": {
+      "$oid": "60e069b09d957f1fb848ba38"
+    },
+    "createdAt": {
+      "$date": "2021-07-03T13:44:16.060Z"
+    },
+    "updatedAt": {
+      "$date": "2021-07-03T13:44:16.060Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-03T13:44:16.062Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T05:20:57.085Z"
+  },
+  "__v": 9
+}]

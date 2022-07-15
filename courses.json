@@ -1,0 +1,676 @@
+[{
+  "_id": {
+    "$oid": "60e13d58a9f5c829f4acf663"
+  },
+  "draft": true,
+  "tags": [
+    "C++",
+    "Object Oriented Programing"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e153ada9f5c829f4acf6b3"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to C++",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e155baa9f5c829f4acf6bc"
+          },
+          "title": "Introduction about Course",
+          "file": "img-1625380281971.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e15611a9f5c829f4acf6bf"
+          },
+          "title": "IDE Installation",
+          "file": "img-1625380369403.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    },
+    {
+      "_id": {
+        "$oid": "60e153bda9f5c829f4acf6b6"
+      },
+      "week_no": 2,
+      "week_topic": "Introduction to DataTypes",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e15650a9f5c829f4acf6c2"
+          },
+          "title": "Primitive Datatypes",
+          "file": "img-1625380432211.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e1566ba9f5c829f4acf6c5"
+          },
+          "title": "Non-Primitive Datatypes",
+          "file": "img-1625380459881.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Mastering C++",
+  "price": 480,
+  "description": "This is a course for learning the intermediate of C++",
+  "level": "2",
+  "category": "6",
+  "instructor": {
+    "_id": {
+      "$oid": "60e13d58a9f5c829f4acf665"
+    },
+    "instructor_name": "Jeet",
+    "instructor_id": {
+      "$oid": "60e05a1a7f150618d063a398"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T04:47:20.175Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:34:20.005Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "60e13deca9f5c829f4acf668"
+  },
+  "draft": true,
+  "tags": [
+    "website functioning",
+    "Javascript"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e1540aa9f5c829f4acf6b9"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to JavaScript",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e1578ea9f5c829f4acf6d4"
+          },
+          "title": "Intoduction of Course",
+          "file": "img-1625380750832.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e157aba9f5c829f4acf6d7"
+          },
+          "title": "Variables in Javascript",
+          "file": "img-1625380779039.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Learning the basics of Javascript",
+  "price": 480,
+  "description": "This is a beginner friendly course for learning the basics of Javascript",
+  "level": "1",
+  "category": "6",
+  "instructor": {
+    "_id": {
+      "$oid": "60e13deca9f5c829f4acf66a"
+    },
+    "instructor_name": "Jeet",
+    "instructor_id": {
+      "$oid": "60e05a1a7f150618d063a398"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T04:49:48.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:39:39.145Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e13e8aa9f5c829f4acf66d"
+  },
+  "draft": true,
+  "tags": [
+    "Java",
+    "Java Development Environment"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e1534fa9f5c829f4acf6b0"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Java",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e15800a9f5c829f4acf6da"
+          },
+          "title": "Introduction about Java",
+          "file": "img-1625380864793.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e15811a9f5c829f4acf6dd"
+          },
+          "title": "IDE installation",
+          "file": "img-1625380881852.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Mastering Java",
+  "price": 280,
+  "description": "This is a course for learning the intermediate of Java",
+  "level": "2",
+  "category": "6",
+  "instructor": {
+    "_id": {
+      "$oid": "60e13e8aa9f5c829f4acf66f"
+    },
+    "instructor_name": "Jeet",
+    "instructor_id": {
+      "$oid": "60e05a1a7f150618d063a398"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T04:52:26.481Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:41:21.994Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e13f40a9f5c829f4acf672"
+  },
+  "draft": true,
+  "tags": [
+    "Communication",
+    "Spoken"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e152fda9f5c829f4acf6ad"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Communication",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e15848a9f5c829f4acf6e0"
+          },
+          "title": "Introduction About Course",
+          "file": "img-1625380935962.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e1585aa9f5c829f4acf6e3"
+          },
+          "title": "Ways of Elaboration",
+          "file": "img-1625380954556.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Learning the Communication Skills",
+  "price": 280,
+  "description": "This course enable the way of mixing with different rituals through communication",
+  "level": "1",
+  "category": "7",
+  "instructor": {
+    "_id": {
+      "$oid": "60e13f40a9f5c829f4acf674"
+    },
+    "instructor_name": "Jeet",
+    "instructor_id": {
+      "$oid": "60e05a1a7f150618d063a398"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T04:55:28.889Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:42:34.712Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e13fbca9f5c829f4acf677"
+  },
+  "draft": true,
+  "tags": [
+    "HTML",
+    "Markup Language"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e152b3a9f5c829f4acf6aa"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to HTML",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e15889a9f5c829f4acf6e6"
+          },
+          "title": "Introduction of Course",
+          "file": "img-1625381001566.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e1589da9f5c829f4acf6e9"
+          },
+          "title": "What is Hypertext !",
+          "file": "img-1625381021284.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Learning the HTML",
+  "price": 280,
+  "description": "This is a beginner friendly course for learning the basics of HTML",
+  "level": "1",
+  "category": "6",
+  "instructor": {
+    "_id": {
+      "$oid": "60e13fbca9f5c829f4acf679"
+    },
+    "instructor_name": "Jeet",
+    "instructor_id": {
+      "$oid": "60e05a1a7f150618d063a398"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T04:57:32.376Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:43:41.391Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e1430fa9f5c829f4acf67d"
+  },
+  "draft": true,
+  "tags": [
+    "Python",
+    "Programming"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e15110a9f5c829f4acf6a4"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Python",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e156d0a9f5c829f4acf6c8"
+          },
+          "title": "About Course",
+          "file": "img-1625380560812.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e156eaa9f5c829f4acf6cb"
+          },
+          "title": "IDE installation Guide",
+          "file": "img-1625380586131.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    },
+    {
+      "_id": {
+        "$oid": "60e1512ca9f5c829f4acf6a7"
+      },
+      "week_no": 2,
+      "week_topic": "IDE setups and Basics of Python",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e1571ca9f5c829f4acf6ce"
+          },
+          "title": "Python Dataypes ",
+          "file": "img-1625380636201.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e15738a9f5c829f4acf6d1"
+          },
+          "title": "Python Builtin Functions",
+          "file": "img-1625380664576.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Mastering Python",
+  "price": 190,
+  "description": "This is a beginner friendly course for learning the basics of Python",
+  "level": "1",
+  "category": "6",
+  "instructor": {
+    "_id": {
+      "$oid": "60e1430fa9f5c829f4acf67f"
+    },
+    "instructor_name": "Gourav Singh",
+    "instructor_id": {
+      "$oid": "60e069b09d957f1fb848ba37"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T05:11:43.074Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:37:44.686Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "60e143a1a9f5c829f4acf682"
+  },
+  "draft": true,
+  "tags": [
+    "Mearketing",
+    "Digital currency"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e150a1a9f5c829f4acf6a1"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Marketing Staregies",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e158d1a9f5c829f4acf6ec"
+          },
+          "title": "About this Course",
+          "file": "img-1625381073545.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e158eda9f5c829f4acf6ef"
+          },
+          "title": "What is Marketing ?",
+          "file": "img-1625381101176.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Learning Digital Marketing",
+  "price": 390,
+  "description": "This is a course for learning the aspects of Digital Marketing",
+  "level": "1",
+  "category": "4",
+  "instructor": {
+    "_id": {
+      "$oid": "60e143a1a9f5c829f4acf684"
+    },
+    "instructor_name": "Gourav Singh",
+    "instructor_id": {
+      "$oid": "60e069b09d957f1fb848ba37"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T05:14:09.610Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:45:01.349Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e14434a9f5c829f4acf687"
+  },
+  "draft": true,
+  "tags": [
+    "Personality",
+    "Teamwork"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e14efda9f5c829f4acf69e"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Skillset of Leading",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e15926a9f5c829f4acf6f2"
+          },
+          "title": "About Course",
+          "file": "img-1625381158323.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e15948a9f5c829f4acf6f5"
+          },
+          "title": "Understanding the Condition",
+          "file": "img-1625381192711.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Teamwork Skills",
+  "price": 390,
+  "description": "This is a course lets u learn the way of managing situations",
+  "level": "1",
+  "category": "3",
+  "instructor": {
+    "_id": {
+      "$oid": "60e14434a9f5c829f4acf689"
+    },
+    "instructor_name": "Gourav Singh",
+    "instructor_id": {
+      "$oid": "60e069b09d957f1fb848ba37"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T05:16:36.235Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:46:32.850Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e144c1a9f5c829f4acf68c"
+  },
+  "draft": true,
+  "tags": [
+    "Probability",
+    "Data Science",
+    "Analysis"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e14e8aa9f5c829f4acf69b"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to Probabilty",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e1597ca9f5c829f4acf6f8"
+          },
+          "title": "Introduction About Course",
+          "file": "img-1625381244522.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e1599da9f5c829f4acf6fb"
+          },
+          "title": "Requirement of Probability in datascience",
+          "file": "img-1625381276931.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Probability for Datascience",
+  "price": 590,
+  "description": "This is a course for mastering the Probability used in Data Science",
+  "level": "2",
+  "category": "2",
+  "instructor": {
+    "_id": {
+      "$oid": "60e144c1a9f5c829f4acf68e"
+    },
+    "instructor_name": "Gourav Singh",
+    "instructor_id": {
+      "$oid": "60e069b09d957f1fb848ba37"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T05:18:57.868Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:47:57.030Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "60e14539a9f5c829f4acf691"
+  },
+  "draft": true,
+  "tags": [
+    "CSS",
+    "Designing"
+  ],
+  "data": [
+    {
+      "_id": {
+        "$oid": "60e14ddaa9f5c829f4acf698"
+      },
+      "week_no": 1,
+      "week_topic": "Introduction to CSS",
+      "week_data": [
+        {
+          "_id": {
+            "$oid": "60e159c8a9f5c829f4acf6fe"
+          },
+          "title": "Introduction About Course",
+          "file": "img-1625381320196.mp4",
+          "type": "video"
+        },
+        {
+          "_id": {
+            "$oid": "60e159e7a9f5c829f4acf701"
+          },
+          "title": "What is Cascade StyleSheet?",
+          "file": "img-1625381350977.mp4",
+          "type": "video"
+        }
+      ],
+      "assignment": [],
+      "discussion": []
+    }
+  ],
+  "enrollment_details": [],
+  "feedback": [],
+  "title": "Learning the CSS Basics",
+  "price": 240,
+  "description": "This is a beginner friendly course for learning the basics of css",
+  "level": "1",
+  "category": "1",
+  "instructor": {
+    "_id": {
+      "$oid": "60e14539a9f5c829f4acf693"
+    },
+    "instructor_name": "Gourav Singh",
+    "instructor_id": {
+      "$oid": "60e069b09d957f1fb848ba37"
+    },
+    "instructor_profession": "student"
+  },
+  "createdAt": {
+    "$date": "2021-07-04T05:20:57.084Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-04T06:49:11.176Z"
+  },
+  "__v": 3
+}]

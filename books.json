@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "60e064179ae3e504d4f18bb1"
+  },
+  "author": [
+    "gourav"
+  ],
+  "tags": [
+    "python",
+    "python basic",
+    "data science"
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e064179ae3e504d4f18bb2"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Python Basic",
+  "price": 2861,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "6",
+  "book_file": "img-1625318423398.pdf",
+  "book_image": "img-1625318423403.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:20:23.565Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:20:23.565Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0648c9ae3e504d4f18bb6"
+  },
+  "author": [
+    "Ankur"
+  ],
+  "tags": [
+    "python",
+    "python basic",
+    "data science"
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e0648c9ae3e504d4f18bb7"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Python For All",
+  "price": 5000,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "7",
+  "book_file": "img-1625318540236.pdf",
+  "book_image": "img-1625318540239.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:22:20.340Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:22:20.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e06538e1c9ee2dfcc96103"
+  },
+  "author": [
+    "Ankur"
+  ],
+  "tags": [
+    "Digital",
+    "Digital Marketing",
+    "Marketing"
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e06538e1c9ee2dfcc96104"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Digital Marketing",
+  "price": 1000,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "4",
+  "book_file": "img-1625318712260.pdf",
+  "book_image": "img-1625318712263.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:25:12.588Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:25:12.588Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e065fde1c9ee2dfcc96108"
+  },
+  "author": [
+    "Jeetesh"
+  ],
+  "tags": [
+    "Web",
+    "Website",
+    "web development"
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e065fde1c9ee2dfcc96109"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Web Development With Html&Css",
+  "price": 1500,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "6",
+  "book_file": "img-1625318909831.pdf",
+  "book_image": "img-1625318909833.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:28:29.935Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:28:29.935Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e06652e1c9ee2dfcc9610d"
+  },
+  "author": [
+    "Jeetesh"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e06652e1c9ee2dfcc9610e"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Personal Development Course",
+  "price": 1000,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "3",
+  "book_file": "img-1625318994401.pdf",
+  "book_image": "img-1625318994403.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:29:54.479Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:29:54.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0679fe1c9ee2dfcc96112"
+  },
+  "author": [
+    "Jeetesh"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e0679fe1c9ee2dfcc96113"
+    },
+    "publisher_name": "Jeet",
+    "publisher_id": {
+      "$oid": "60dcb7c65036fc0e84a14e42"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Personal Grow ",
+  "price": 1000,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "3",
+  "book_file": "img-1625319327420.pdf",
+  "book_image": "img-1625319327423.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:35:27.545Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:35:27.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e06a4d9d957f1fb848ba3f"
+  },
+  "author": [
+    "Jeetesh"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e06a4d9d957f1fb848ba40"
+    },
+    "publisher_name": "Gourav Singh",
+    "publisher_id": {
+      "$oid": "60dcb8c75036fc0e84a14e48"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Personal Grow Quickly ",
+  "price": 1100,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "3",
+  "book_file": "img-1625320012923.pdf",
+  "book_image": "img-1625320012929.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T13:46:53.079Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T13:46:53.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e075ec9d957f1fb848ba44"
+  },
+  "author": [
+    "Nisha"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e075ec9d957f1fb848ba45"
+    },
+    "publisher_name": "Gourav Singh",
+    "publisher_id": {
+      "$oid": "60dcb8c75036fc0e84a14e48"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Grow Business Quickly ",
+  "price": 1100,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "4",
+  "book_file": "img-1625322988243.pdf",
+  "book_image": "img-1625322988246.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T14:36:28.347Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T14:36:28.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e076439d957f1fb848ba49"
+  },
+  "author": [
+    "Nisha"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e076439d957f1fb848ba4a"
+    },
+    "publisher_name": "Gourav Singh",
+    "publisher_id": {
+      "$oid": "60dcb8c75036fc0e84a14e48"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "Python Project ",
+  "price": 3100,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "6",
+  "book_file": "img-1625323075940.pdf",
+  "book_image": "img-1625323075942.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T14:37:56.007Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T14:37:56.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e07e9c9d957f1fb848ba4e"
+  },
+  "author": [
+    "Gourav"
+  ],
+  "tags": [
+    "Personal ",
+    "Personal Development "
+  ],
+  "views": 0,
+  "no_sales": 0,
+  "buyers": [],
+  "publisher": {
+    "_id": {
+      "$oid": "60e07e9c9d957f1fb848ba4f"
+    },
+    "publisher_name": "Gourav Singh",
+    "publisher_id": {
+      "$oid": "60dcb8c75036fc0e84a14e48"
+    },
+    "publisher_profession": "student"
+  },
+  "title": "English Spoken",
+  "price": 3100,
+  "description": "Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models.",
+  "category": "7",
+  "book_file": "img-1625325212594.pdf",
+  "book_image": "img-1625325212596.jpeg",
+  "createdAt": {
+    "$date": "2021-07-03T15:13:32.731Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T15:13:32.731Z"
+  },
+  "__v": 0
+}]
